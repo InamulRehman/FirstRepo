@@ -7,6 +7,7 @@ namespace first_app
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            console.WriteLine("Helo i am inamulrehman ia am updating this ")
         }
     }
 }
