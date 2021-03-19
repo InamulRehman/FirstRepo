@@ -118,7 +118,7 @@ ipch/
 
 # TFS 2012 Local Workspace
 $tf/
-
+two.txt
 # Guidance Automation Toolkit
 *.gpState
 
@@ -351,5 +351,6 @@ MigrationBackup/
 
 #OS related files
 .DS_Store
+
 .vscode
-two.txt
+
