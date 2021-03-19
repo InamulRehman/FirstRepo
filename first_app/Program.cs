@@ -12,6 +12,7 @@ namespace first_app
             Console.WriteLine("I hope you are living a good life");
             Console.WriteLine("hi how can i help you ?");
             Console.WriteLine("Is csharp is easy to learn or not ?");
+            Console.WriteLine("helo helo helo");
         }
     }
 }
